@@ -38,3 +38,12 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
+Example:
+
+BootcampStats.ipynb: An analysis of bootcamp grads in terms of job placement and salary.
+
+HowToBreakIntoTheField.ipynb: An analysis of how to become a software developer.
+
+Salary.ipynb: An analysis of the variables that are related to salary and job satisfaction.
+
+Salary_ML.py: A python script that builds a Linear Regression model to predict salary.
